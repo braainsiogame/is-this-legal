@@ -1,2 +1,2 @@
 # is-this-legal
-no, probably
+no it isn't
